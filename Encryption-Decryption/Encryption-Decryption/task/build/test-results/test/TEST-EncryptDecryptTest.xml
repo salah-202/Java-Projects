@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="EncryptDecryptTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-01-25T18:50:53" hostname="DESKTOP-TVKG3JB" time="0.209">
+  <properties/>
+  <testcase name="start" classname="EncryptDecryptTest" time="0.209"/>
+  <system-out><![CDATA[?[1;31m
+Start test 1?[0m
+Data written to file successfully!
+?[1;31m
+Start test 2?[0m
+Data written to file successfully!
+?[1;31m
+Start test 3?[0m
+Data written to file successfully!
+?[1;31m
+Start test 4?[0m
+Data written to file successfully!
+?[1;31m
+Start test 5?[0m
+Data written to file successfully!
+?[1;31m
+Start test 6?[0m
+Data written to file successfully!
+?[1;31m
+Start test 7?[0m
+Data written to file successfully!
+?[1;31m
+Start test 8?[0m
+Data written to file successfully!
+?[1;31m
+Start test 9?[0m
+Data written to file successfully!
+?[1;31m
+Start test 10?[0m
+Data written to file successfully!
+?[1;31m
+Start test 11?[0m
+Data written to file successfully!
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
